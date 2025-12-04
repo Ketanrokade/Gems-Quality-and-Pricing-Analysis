@@ -7,7 +7,7 @@ The interactive Power BI dashboard helps users explore pricing patterns, identif
 
 ## 📂 Dataset
 
-- Source: Diamonds.csv
+- Source: Gems Quality and Pricing Data.csv
 - Rows: ~54,000
 - Columns: 10 including carat, clarity, color, cut, dimensions, and price.
 
@@ -46,7 +46,7 @@ The interactive Power BI dashboard helps users explore pricing patterns, identif
 | File | Description |
 |------|------------|
 | Gems Quality and Pricing Analysis Dashboard.pbix | Power BI dashboard |
-| Diamoonds.csv | Dataset |
+| Gems Quality and Pricing Data.csv | Dataset |
 | dashboard_preview.png | Screenshot of dashboard |
 | README.md | Project documentation |
 
